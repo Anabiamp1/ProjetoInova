@@ -6,7 +6,7 @@ Projeto Inova
 
 <div align="center">
 
-![Image](https://github.com/user-attachments/assets/ac5114ce-be1b-4b2b-b910-6e803f1cc6e7)
+![Image](https://github.com/user-attachments/assets/3259e271-8b40-4f8d-967a-0438943fe3b1)
 
 </div>
 
